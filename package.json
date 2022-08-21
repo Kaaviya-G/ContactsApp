@@ -2,7 +2,7 @@
   "name": "contactsapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kaaviya-g.github.io",
+  "homepage": "https://kaaviya-g.github.io/ContactsApp",
   "dependencies": {
     "-": "^0.0.1",
     "@emotion/react": "^11.10.0",
